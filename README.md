@@ -12,7 +12,7 @@
 Разработка дашбордов для регулярной отчетности в Power BI для визуализации ключевых показателей.  
 Примеры работ:  
 Снижение затрат: [оптимизация ассортиментной матрицы с помощью ABC/XYZ - анализа в Excel](https://github.com/MGP59/ABC_analysis/tree/main).  
-Основные метрики HR отдела: [Приложение Power BI](https://github.com/MGP59/BI_report_HR/tree/main).
+Основные метрики HR отдела: [Приложение Power BI](https://github.com/MGP59/BI_report_HR/tree/main).  
 Навигация по проектам
 Анализ данных, визуализация и ABC-анализ в Python
 ABC/XYZ-анализ в SQL
